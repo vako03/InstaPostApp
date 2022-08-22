@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">InstaPostApp</string>
+    <string name="bean_cors">Bean Cors</string>
+    <string name="innaples">In Naples</string>
 </resources>
